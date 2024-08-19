@@ -19,7 +19,7 @@ The Online Exam Portal is a robust and reliable platform designed for users to c
 
 
 
-   ## Project Structure
+## Project Structure
 
 ### Frontend
 - **Technology:** Angular
