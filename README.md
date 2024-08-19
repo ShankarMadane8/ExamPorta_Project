@@ -16,3 +16,25 @@ The Online Exam Portal is a robust and reliable platform designed for users to c
 1. **Clone the Repository:**
    ```bash
    git clone https://github.com/ShankarMadane8/ExamPortal_Project.git
+
+
+
+   ## Project Structure
+
+### Frontend
+- **Technology:** Angular
+- **Location:** `/ui`
+- **Description:** Contains the code for the user interface, including components, services, and styles. The frontend interacts with the backend APIs and presents data to the user.
+
+### Backend
+- **Technology:** Spring Boot
+- **Location:** `/backend`
+- **Description:** Contains the code for the server-side application, including controllers, services, and data access layers. The backend handles business logic, data management, and API endpoints.
+
+## Installation and Setup
+
+### Prerequisites
+- **Java JDK 17**
+- **Node.js and npm**
+- **Maven**
+- **MySQL** or another supported database
