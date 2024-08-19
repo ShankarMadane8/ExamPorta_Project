@@ -23,7 +23,7 @@ The Online Exam Portal is a robust and reliable platform designed for users to c
 
 ### Frontend
 - **Technology:** Angular
-- **Location:** `/ui`
+- **Location:** `/examfront`
 - **Description:** Contains the code for the user interface, including components, services, and styles. The frontend interacts with the backend APIs and presents data to the user.
 
   ## Frontend Setup
@@ -49,7 +49,7 @@ The Online Exam Portal is a robust and reliable platform designed for users to c
 
 ### Backend
 - **Technology:** Spring Boot
-- **Location:** `/backend`
+- **Location:** `/examportal`
 - **Description:** Contains the code for the server-side application, including controllers, services, and data access layers. The backend handles business logic, data management, and API endpoints.
 
 ## Installation and Setup
