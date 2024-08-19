@@ -26,6 +26,27 @@ The Online Exam Portal is a robust and reliable platform designed for users to c
 - **Location:** `/ui`
 - **Description:** Contains the code for the user interface, including components, services, and styles. The frontend interacts with the backend APIs and presents data to the user.
 
+  ## Frontend Setup
+
+1. Navigate to the `examfront` directory:
+
+    ```bash
+    cd examfront
+    ```
+
+2. Install the necessary dependencies:
+
+    ```bash
+    npm install
+    ```
+
+3. Run the Angular project:
+
+    ```bash
+    ng serve
+    ```
+
+
 ### Backend
 - **Technology:** Spring Boot
 - **Location:** `/backend`
